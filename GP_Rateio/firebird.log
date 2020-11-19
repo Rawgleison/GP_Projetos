@@ -1,0 +1,25 @@
+
+RAUL-VM-PC (Client)	Thu Dec 03 15:36:53 2015
+	INET/inet_error: read errno = 10054
+
+
+RAUL-VM-PC (Client)	Thu Dec 03 15:36:57 2015
+	REMOTE INTERFACE/gds__detach: Unsuccesful detach from database. 
+	Uncommitted work may have been lost
+
+
+RAUL-VM-PC (Client)	Wed Dec 30 11:00:58 2015
+	INET/inet_error: connect errno = 10061
+
+
+RAUL-VM-PC (Client)	Wed Dec 30 11:01:01 2015
+	INET/inet_error: connect errno = 10061
+
+
+RAW-NOT (Client)	Fri Jan 06 10:12:54 2017
+	INET/inet_error: connect errno = 10061
+
+
+RAW-NOT (Client)	Fri Jan 06 10:12:57 2017
+	INET/inet_error: connect errno = 10061
+
